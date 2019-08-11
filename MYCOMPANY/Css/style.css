@@ -1,0 +1,26 @@
+
+.header_color {
+width: 100%;
+min-height: 360px;
+background-color: black;
+}
+.header_logo { color: orange;
+padding-top:12px;
+padding-left:36px ;
+font-size: 30px;
+float: left;
+}
+.header_buttons { 
+float: right;
+padding-top:  12px;
+padding-right: 36px;
+}
+button { background-color: Transparent;
+color: orange;
+border: none; 
+width: relative ;}
+.welcome { color: white;
+padding-top:140px ;
+padding-left: 3%;
+font-size: 50px;}
+.welcomes { color: orange; }
