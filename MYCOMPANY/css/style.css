@@ -1,6 +1,8 @@
 P,
 body,
-h1 {
+h1,
+h3,
+br {
     padding: 0;
     margin: 0;
 }
@@ -104,12 +106,8 @@ span {
     height: 2px;
 }
 
-.orange_line1 {
 
-    width: 50%;
-    margin: 0 auto;
-    background-color: darkorange;
-    height: 2px;
+    
 }
 
 .about_content {
@@ -124,13 +122,14 @@ span {
 }
 
 .our_team_content {
-    padding-top: 40px
+    padding-top: 40px;
+    width: 100%;
 }
 
 .main_text {
+    display: flex;
+    justify-content: center;
     color: #999999;
-    margin: 0 auto;
-    width: 141px
 }
 
 .our_service {
@@ -142,29 +141,60 @@ span {
     padding-top: 100px;
 }
 
+.rounds {
+display: flex;
+justify-content: center}
+
 .round {
     border-radius: 50%;
     background-color: white;
-    height: 250px;
-    width: 250px;
+    height: 150px;
+    width: 150px;
     float: left;
-    margin-left: 10.3%
-
 }
+
+.r {
+    margin-left: 50px
+}
+
 .team {
     width: 100%;
     padding-top: 5%
 }
+
 /*footer*/
 .footer_div {
     background-color: gray;
-        height: 150px;
+    height: 150px;
     width: 100%;
 }
+
 .contacts {
-    height: ;}
+    padding-top: 10px;
+    padding-left: 15px;
+    float: left;
+}
+
 .subdiv {
     height: 6px;
     background-color: orangered;
-    
+
+}
+
+.phonenumber {
+    float: left;
+    padding-top: 30px;
+    padding-LEFT: 30px
+}
+
+.our_service {
+    display: flex;
+justify-content: center
+}
+
+.test {
+    display: flex;
+    justify-content: lex-end;
+    color: black;
+
 }
