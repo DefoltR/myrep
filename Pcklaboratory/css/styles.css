@@ -24,11 +24,11 @@ p {
 	margin: 20px 0;
 }
 .wrapper {
-	max-width: 1260px;
+	max-width: 960px;
 	margin: auto;
 }
 header {
-	padding: 20px 0;
+	padding: 30px 0;
 }
 form[name="search"]{
     float: right;
@@ -62,4 +62,10 @@ nav li {
 
 .top-menu a {
 	color: #b2b2b2;
+}
+#heading {
+	float: left;
+}
+nav {
+	float: left;
 }
