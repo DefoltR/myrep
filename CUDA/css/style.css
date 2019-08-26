@@ -31,7 +31,8 @@ nav li {
 nav button {
     font-family: 'Titillium Web';
     background: transparent;
-    color: white
+    color: white;
+    border: 0;
 }
 
 .hi_there {
@@ -50,8 +51,100 @@ nav button {
 }
 
 /*main*/
-
+/*sevice*/
 .service {
-    height: 750px;
+    min-height: 750px;
     background-color: #17c2a4;
+}
+
+.service_h2 {
+    padding-top: 120px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 30px;
+    line-height: 70px;
+}
+
+.bottom_line {
+    height: 4px;
+    width: 87px;
+    display: block;
+    background-color: #14a58c;
+    margin: 0 auto;
+}
+
+.service_text {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    padding: 10px 0px 30px
+}
+
+.service_icons {
+    text-align: center
+}
+
+.service_icons li {
+    text-align: center;
+    display: inline-block;
+    margin: 17px;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+
+}
+
+.service_icons h3 {
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.icon_text {
+    margin: 15px;
+}
+
+/*team*/
+
+.team {
+    min-height: 915px;
+    background-color: #e7f1f8;
+}
+
+.team_h2 {
+    padding-top: 120px;
+    color: #3c4761;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 30px;
+    line-height: 70px;
+}
+
+.team_text {
+    text-align: center;
+  
+    margin: 17px;
+    color: #3c4761;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+}
+.team_icons {
+    text-align: center
+}
+.team_icons li {
+display: inline-block;
+}
+.team_arounds {
+    height: 200px;
+    width: 200px;
+    background-color: #878787;
+    border-radius: 50%;
+    margin: 17px;
 }
