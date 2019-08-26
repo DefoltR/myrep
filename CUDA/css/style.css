@@ -90,7 +90,7 @@ nav button {
 .service_icons li {
     text-align: center;
     display: inline-block;
-    margin: 17px;
+    margin: 25px;
     color: #ffffff;
     font-size: 18px;
     line-height: 26px;
@@ -128,23 +128,25 @@ nav button {
 
 .team_text {
     text-align: center;
-  
+
     margin: 17px;
     color: #3c4761;
     font-size: 18px;
     line-height: 26px;
     text-align: center;
 }
+
 .team_icons {
     text-align: center
 }
+
 .team_icons li {
-display: inline-block;
+    display: inline-block;
 }
+
 .team_arounds {
     height: 200px;
     width: 200px;
     background-color: #878787;
     border-radius: 50%;
-    margin: 17px;
-}
+    margin: 17px;}
