@@ -142,6 +142,7 @@ nav button {
 
 .team_icons li {
     display: inline-block;
+    text-align: center;
 }
 
 .team_arounds {
@@ -149,4 +150,5 @@ nav button {
     width: 200px;
     background-color: #878787;
     border-radius: 50%;
-    margin: 17px;}
+    margin: 30px;
+}
