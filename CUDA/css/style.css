@@ -84,10 +84,11 @@ nav button {
 }
 
 .service_icons {
-    text-align: center
+    text-align: center;
 }
 
 .service_icons li {
+    width: 300px;
     text-align: center;
     display: inline-block;
     margin: 25px;
@@ -129,7 +130,7 @@ nav button {
 .team_text {
     text-align: center;
 
-    margin: 17px;
+    margin-top: 17px;
     color: #3c4761;
     font-size: 18px;
     line-height: 26px;
@@ -137,7 +138,9 @@ nav button {
 }
 
 .team_icons {
-    text-align: center
+    text-align: center;
+    padding-top: 40px;
+
 }
 
 .team_icons li {
@@ -150,5 +153,35 @@ nav button {
     width: 200px;
     background-color: #878787;
     border-radius: 50%;
-    margin: 30px;
+    margin: 0 auto;
+}
+
+.team_icons_text {
+    text-align: center;
+    width: 300px;
+    margin: 40px;
+
+
+}
+
+.team_icons_text h3 {
+    font-size: 24px;
+    line-height: 40px;
+    color: #27283d;
+    font-weight: 700;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.team_profession {
+    font-size: 16px;
+    line-height: 18px;
+    color: #30bae7;
+}
+
+.team_discription {
+    color: #3c4761;
+    font-size: 18px;
+    line-height: 26px;
+
 }
