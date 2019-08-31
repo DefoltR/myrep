@@ -52,6 +52,7 @@ nav button {
 
 /*main*/
 /*sevice*/
+
 .service {
     min-height: 750px;
     background-color: #17c2a4;
@@ -184,4 +185,29 @@ nav button {
     font-size: 18px;
     line-height: 26px;
 
+}
+
+.wrapper {
+    min-height: 700px;
+}
+.wrapper @wegot {
+    background-color: #27283d
+}
+
+.wrapper_h2 {
+    padding-top: 120px;
+    color: #3c4761;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 30px;
+    line-height: 70px;
+    text-transform: uppercase;
+}
+.wegot_icons {
+    text-align: center;
+}
+.wegot_icons li {
+display: inline-block;
+margin: 50px;
 }
