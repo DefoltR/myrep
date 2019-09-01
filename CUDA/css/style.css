@@ -1,5 +1,8 @@
+html {
+    width: 100%;
+}
 body {
-
+width: 100%;
     font-family: 'Titillium Web', sans-serif;
 
 }
@@ -190,10 +193,6 @@ nav button {
 .wrapper {
     min-height: 700px;
 }
-.wrapper @wegot {
-    background-color: #27283d
-}
-
 .wrapper_h2 {
     padding-top: 120px;
     color: #3c4761;
@@ -204,10 +203,146 @@ nav button {
     line-height: 70px;
     text-transform: uppercase;
 }
+/* wegot */
+.wegot {
+    min-height: 700px;
+}
 .wegot_icons {
     text-align: center;
 }
 .wegot_icons li {
 display: inline-block;
 margin: 50px;
+}
+.wegot_text {
+    text-align: center;
+
+    margin-top: 17px;
+    color: #3c4761;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+}
+/* portfolio */
+.portfolio {
+    min-height: 700px;
+    background-color: #ffdd99;
+}
+.portfolio_text {
+    text-align: center;
+
+    margin-top: 17px;
+    color: #3c4761;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+}
+.portfolio_buttons {
+    text-align: center;
+}
+.portfolio_buttons button {
+    text-transform: uppercase;
+    margin-top: 15px;
+    background-color: #ebc985;
+    border: 0;
+    border-radius: 15px;
+}
+.portfolio_buttons li {
+    display: inline-block;
+
+}
+.portfolio_images {
+    padding-top: 30px;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+.portfolio_images li {
+    margin: 30px;
+    display: inline-block;
+}
+.portfolio_bigbutton {
+text-align: center;
+padding-bottom: 110px;
+padding-top: 85px;
+}
+/* wooper */
+.wooper {
+    color: white;
+    min-height: 700px;
+    background-color: #d74680;
+}
+.wooper .wrapper_h2 {
+    color: white;
+}
+.wooper_text {
+    text-align: center;
+
+    margin-top: 17px;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+}
+.wooper_icons {
+    text-align: center;
+
+}
+.wooper_round {
+    width: 50px;
+    height: 50px;
+    float: left;
+    border-radius: 50%;
+    background-color: #878787;
+}
+.wooper_icon_text {
+    float: left;
+}
+.wooper_icons p h3 {
+text-align: }
+.wooper_icons li {
+    display: inline-block;
+    width: 520px;
+    height: 170px;
+    margin: 30px
+}
+/* getin */
+
+.getin {
+    min-height: 700px;
+    background-color: #3c5499;
+    color: white;
+}
+.getin .wrapper_h2 {
+    color: white;
+}
+.getin_text {
+    text-align: center;
+
+    margin-top: 17px;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.getin_big_btn {
+    text-align: center;
+padding-bottom: 110px;
+padding-top: 85px;
+}
+/* footer */
+footer {
+    height: 115px;
+    background-color: #344b8e;
+
+}
+.footer_buttons {
+text-align: center;
+padding-top: 25px;
+}
+.footer_buttons li {
+    display: inline-block;
+    margin: 20px;
+
 }
