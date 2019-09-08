@@ -1,0 +1,30 @@
+.bck {
+    min-height: 1135px;
+    background-image: url("images/Image.png");
+    background-size: cover;
+}
+
+/* 
+header
+*/
+header {
+    padding-top: 38px;
+    white-space: nowrap;
+}
+
+.nav-item {
+    margin: 0 30px;
+    text-transform: uppercase;
+
+}
+
+/* 
+ screen-1
+*/
+.screen-1 {
+padding-top: 135px;
+    text-transform: uppercase;
+}
+.screen-1 h1 {
+    font-size: 130px;
+}

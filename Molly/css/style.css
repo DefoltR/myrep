@@ -2,10 +2,13 @@
 body {
     background-color: black;
 }
+/* header */
+header {
+    padding-top: 28px;
+    background-color: white;
+width: 100%;
+}
 ul li {
     text-transform: uppercase;
-    margin: 0 57px;
-}
-menu-item {
-   
+    margin: 0 27px;
 }
