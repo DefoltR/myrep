@@ -24,7 +24,8 @@ h2 {
 }
 
 .orange {
-    color: #f7ac53;}
+    color: #f7ac53;
+}
 
 /* 
 scrn1
@@ -38,9 +39,8 @@ scrn1
 
 .scrn1-h1 {
 
-    margin-top: 255px;
-    max-width: 750px;
-    max-height: 275px;
+    margin-top: 25%;
+
     text-align: center;
 
 
@@ -48,25 +48,24 @@ scrn1
 
 .scrn1-h1-box {
     margin: 0 auto;
-    width: 750px;
-    height: 275px;
     border: 1px solid rgba(143, 143, 143, 0.5);
     text-align: center;
 }
 
 .scrn1-h1-box2 {
-    padding-top: 47px;
-    margin: auto; 
+    padding-top: 20px;
+    margin: 0 auto;
     color: white;
     text-align: center;
 }
-.scrn1-ul {}
-
-
-.scrn1-ul-box {
-    
+.scrn1-ul {
     text-align: center;
 }
-.menu {
-
+.menu11 {
+    margin-top: 20px;
 }
+.menu11 li {
+    margin: 0 5px;
+    display: inline;
+}
+
