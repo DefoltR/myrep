@@ -41,24 +41,20 @@ scrn1
 
     margin-top: 25%;
 
-    text-align: center;
-
-
 }
 
 .scrn1-h1-box {
+    width: 750px;
+    height: 250px;
     margin: 0 auto;
+text-align: center;
     border: 1px solid rgba(143, 143, 143, 0.5);
-    text-align: center;
+
 }
 
-.scrn1-h1-box2 {
-    padding-top: 20px;
-    margin: 0 auto;
-    color: white;
-    text-align: center;
+.weare {
+    margin-top: 30px;
 }
-
 .scrn1-ul {
     text-align: center;
 }
@@ -71,4 +67,12 @@ scrn1
     margin: 0 5px;
     display: inline;
 }
-
+.arrow {
+    padding-top: 215px;
+}
+.bottom-block {
+    padding-top: 65px;
+}
+.arrow-right {
+    margin: 13px;
+}
