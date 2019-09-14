@@ -124,4 +124,11 @@ scrn1
 
 .scrn2-ul li {
     margin: 0 10px;
+=======
+.scrn2-ul {
+    margin-top: 166px;
+    margin-bottom: 150px;
+}.scrn2-ul li {
+   margin: 0 20px;
+>>>>>>> 3cc928892547e6f3426c206992a815b2032c1b42
 }
