@@ -58,12 +58,15 @@ scrn1
     color: white;
     text-align: center;
 }
+
 .scrn1-ul {
     text-align: center;
 }
+
 .menu11 {
     margin-top: 20px;
 }
+
 .menu11 li {
     margin: 0 5px;
     display: inline;
