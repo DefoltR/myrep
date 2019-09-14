@@ -22,6 +22,15 @@ h2 {
     font-weight: 400;
     line-height: 65px;
 }
+h3 {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 65px;
+}
+
+.bck-orange {
+    background-color: #f7ac53;;
+}
 
 .orange {
     color: #f7ac53;
@@ -47,7 +56,7 @@ scrn1
     width: 750px;
     height: 250px;
     margin: 0 auto;
-text-align: center;
+    text-align: center;
     border: 1px solid rgba(143, 143, 143, 0.5);
 
 }
@@ -55,6 +64,7 @@ text-align: center;
 .weare {
     margin-top: 30px;
 }
+
 .scrn1-ul {
     text-align: center;
 }
@@ -67,12 +77,37 @@ text-align: center;
     margin: 0 5px;
     display: inline;
 }
+
 .arrow {
     padding-top: 215px;
 }
+
 .bottom-block {
     padding-top: 65px;
 }
+
 .arrow-right {
     margin: 13px;
+}
+
+/*scrn2*/
+.scrn2 {
+    background-color: #202020;;
+    text-align: center;
+}
+
+.line-vert {
+    margin: 0 auto;
+    height: 150px;
+    width: 2px;
+}
+
+.ourservices {
+    padding-top: 25px;
+}
+.scrn2-ul {
+    margin-top: 166px;
+    margin-bottom: 150px;
+}.scrn2-ul li {
+   margin: 0 20px;
 }
