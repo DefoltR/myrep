@@ -133,3 +133,15 @@ scrn3
   color: #bbbbbb;
   margin: 50px 69px 69px;
 }
+/* 
+footer
+*/
+footer {
+  background-color: darkslategrey;
+}
+.footer-ul {
+  padding-top:  30px;
+}
+.footer-ul li {
+  margin: 5px;
+}
